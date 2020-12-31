@@ -8,5 +8,5 @@ Invocation name: interesting facts
 * "Alexa give me a fact"
 * "Alexa useful fact"
 
-#### This skill is live on Alexa Skill store, url for the same: https://www.amazon.com/dp/B08NVCQGFR
+#### This skill is live on Alexa Skill store, URL for the same: https://www.amazon.com/dp/B08NVCQGFR
 ##### Skill is build in python
